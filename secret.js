@@ -1,4 +1,7 @@
-const url= 'mongodb+srv://Shwetha764:47pQ67oLVScz8kgi@cluster0.nh3elac.mongodb.net/?retryWrites=true&w=majority';
+const dotenv=require("dotenv");
 
+
+dotenv.config({path:'./config.env'});
+const url= process.env.DATABASE;
 
 module.exports =url;
