@@ -1,0 +1,27 @@
+version: '3.9'
+
+services:
+  #mongodb services
+  mongo_db:
+    container_name: db_container
+    image: mongo:latest
+    restart: always
+    ports:
+      - 2717:27017
+    volumes:
+      - mongo_db:/data/db
+
+  #node API Service
+  api: 
+    build: .
+    ports:
+      - 8082:3000
+    volumes:
+      - .:/usr/src/app
+    environment:
+      DATABASE: mongodb+srv://Shwetha764:47pQ67oLVScz8kgi@cluster0.nh3elac.mongodb.net/project?retryWrites=true&w=majority
+    depends_on:
+      - mongo_db
+    
+volumes:
+  mongo_db: {}

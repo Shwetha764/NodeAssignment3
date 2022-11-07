@@ -18,6 +18,7 @@ const userSchema=new mongoose.Schema({
   name:String
 })
  
+
 const myDB=new mongoose.model("User",userSchema);
 
 // console.log(myDB);

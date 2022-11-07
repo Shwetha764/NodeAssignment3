@@ -198,7 +198,7 @@ app.get('/',(req,res)=>{
 
 // if(!module.parent){
 app.listen(8082,()=>{
-        logger.log('info','server ready');
+        logger.log('info','server ready ....');
     })
 // }
 
