@@ -968,3 +968,729 @@
 {"level":"info","message":"connection sucessful...","timestamp":"2022-11-07T09:52:15.624Z"}
 {"level":"info","message":"server ready","timestamp":"2022-11-07T10:00:51.426Z"}
 {"level":"info","message":"connection sucessful...","timestamp":"2022-11-07T10:00:53.526Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T04:54:34.304Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T04:54:34.311Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T04:54:39.611Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T04:54:59.785Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T04:54:59.786Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T04:54:59.793Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T04:54:59.862Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T04:55:04.039Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T04:55:04.839Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T04:55:05.702Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T04:55:07.523Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T04:55:07.568Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T04:55:08.178Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T04:57:59.674Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T04:57:59.675Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T04:57:59.683Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T04:57:59.712Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T04:58:01.268Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T04:58:01.777Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T04:58:01.831Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T04:58:01.961Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T04:58:02.061Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T04:58:02.370Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:00:31.984Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:00:31.985Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:00:31.992Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:00:32.017Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:00:33.373Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:00:33.793Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:00:33.853Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:00:33.915Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:00:33.962Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:00:34.011Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:01:51.393Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:01:51.394Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:01:51.401Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:01:51.432Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:01:56.362Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:01:58.534Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:01:58.827Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:01:59.143Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:01:59.422Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:01:59.727Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:04:25.402Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:04:25.403Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:04:25.410Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:04:25.437Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:04:29.464Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:04:30.700Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:04:30.999Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:04:31.314Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:04:31.361Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:04:31.624Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:09:44.826Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:09:44.827Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:09:44.834Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:09:44.861Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:09:46.445Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:09:47.313Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:09:47.318Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:09:47.524Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:09:47.730Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:09:47.834Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:12:43.117Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:12:43.118Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:12:43.126Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:12:43.154Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:12:44.570Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:12:45.756Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:12:45.758Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:12:46.075Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:12:46.286Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:12:46.611Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:13:35.296Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:13:37.106Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:13:51.084Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:14:13.753Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:14:14.631Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:14:18.650Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:14:20.269Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:23.137Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:24.588Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:25.210Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:25.810Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:26.681Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:27.329Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:27.889Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:28.570Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:29.217Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:29.849Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:30.457Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T05:14:31.064Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:14:33.568Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:14:34.960Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:15:44.477Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:15:47.104Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:15:49.329Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:15:51.961Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:15:57.397Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:15:58.927Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:16:03.185Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:16:24.340Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:16:25.230Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:16:26.730Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:16:30.913Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:16:55.966Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:16:58.502Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:17:02.537Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:17:39.478Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:17:41.887Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:17:43.552Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:17:49.792Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:17:50.711Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:18:02.910Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:18:05.687Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:18:07.896Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:18:10.034Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:18:13.312Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:18:18.245Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:18:19.833Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:18:29.777Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:18:31.577Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:19:24.534Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:19:26.695Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:19:33.001Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:20:03.641Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:20:05.288Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:20:09.996Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:20:24.778Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:20:27.093Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:20:29.221Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:20:36.348Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:20:38.449Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:20:54.852Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:20:56.887Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:20:59.999Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:24:07.007Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:24:10.254Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:24:12.711Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:24:14.398Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:24:17.308Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:24:18.946Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:24:39.036Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:24:39.264Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:24:56.288Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:24:58.737Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:25:00.916Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:26:51.963Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:26:54.544Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:34:48.470Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:34:50.542Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:34:57.180Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:34:59.051Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:35:07.942Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:35:09.348Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:35:11.148Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:35:17.221Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:35:33.876Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:35:35.822Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:35:37.928Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:35:42.381Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:37:11.439Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:37:13.920Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:37:15.624Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:37:17.536Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:37:22.684Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:37:33.528Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:37:35.832Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:40:21.045Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:40:23.086Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:40:26.786Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:40:37.572Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:40:39.090Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:40:43.697Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:44:09.754Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:44:12.823Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:44:17.976Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:44:24.432Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:44:25.948Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:44:35.831Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:44:45.935Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:44:47.325Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:44:59.733Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:44:59.734Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:44:59.741Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:44:59.794Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:45:01.414Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:45:02.802Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:45:02.807Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:45:03.006Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:45:03.117Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:45:03.230Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:46:22.908Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:46:22.908Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:46:22.916Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:46:22.941Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:46:24.755Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:46:25.730Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:46:25.733Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:46:25.834Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:46:26.168Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:46:26.269Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:46:53.030Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:46:53.030Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:46:53.038Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:46:53.095Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:46:54.674Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:46:55.755Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:46:55.761Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:46:55.973Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:46:56.178Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:46:56.299Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:48:18.824Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:48:18.824Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:48:18.832Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:48:18.857Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:48:25.650Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:48:26.833Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:48:26.845Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:48:27.044Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:48:27.167Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:48:27.267Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:48:59.614Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:48:59.614Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:48:59.622Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:48:59.648Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T05:49:03.756Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T05:49:05.069Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:49:05.075Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T05:49:05.311Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T05:49:05.512Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T05:49:05.626Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T05:59:59.981Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T05:59:59.982Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T05:59:59.989Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:00:00.013Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:00:02.117Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:00:03.191Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:00:03.195Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:00:03.401Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:00:03.502Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:00:03.623Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:00:56.149Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:00:56.151Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:00:56.159Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:00:56.215Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:00:57.496Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:00:58.551Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:00:58.554Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:00:58.660Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:00:58.764Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:00:58.882Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:01:50.833Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:01:50.834Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:01:50.842Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:01:50.871Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:01:52.510Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:01:53.601Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:01:53.606Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:01:53.822Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:01:53.917Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:01:54.019Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:02:54.893Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:02:54.893Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:02:54.901Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:02:54.931Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:02:57.121Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:02:57.901Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:02:57.907Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:02:58.116Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:02:58.327Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:02:58.428Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:03:51.839Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:03:51.840Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:03:51.848Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:03:51.905Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:03:54.230Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:03:55.020Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:03:55.025Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:03:55.251Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:03:55.349Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:03:55.457Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:06:24.300Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:06:24.301Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:06:24.309Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:06:24.345Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:06:26.254Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:06:27.133Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:06:27.137Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:06:27.337Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:06:27.434Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:06:27.654Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:06:59.685Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:06:59.686Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:06:59.694Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:06:59.750Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:07:00.951Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:07:01.842Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:07:01.846Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:07:02.148Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:07:02.279Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:07:02.391Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:07:30.200Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:07:30.201Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:07:30.209Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:07:30.235Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:07:32.048Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:07:32.972Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:07:32.975Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:07:33.083Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:07:33.190Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:07:33.295Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:09:31.866Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:09:31.867Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:09:31.874Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:09:31.901Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:09:33.835Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:09:34.709Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:09:34.712Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:09:34.928Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:09:35.251Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:09:35.385Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T06:09:53.858Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T06:09:53.859Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T06:09:53.867Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:09:53.919Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T06:09:55.482Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T06:09:56.240Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:09:56.246Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T06:09:56.441Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T06:09:56.554Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T06:09:56.688Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T07:59:00.662Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T07:59:00.663Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T07:59:00.708Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T07:59:06.523Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T07:59:07.968Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T07:59:07.972Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T07:59:08.274Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T07:59:08.442Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T07:59:08.882Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T07:59:45.422Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T07:59:45.423Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T07:59:45.491Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T07:59:48.438Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T07:59:50.150Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T07:59:50.154Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T07:59:50.464Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T07:59:50.648Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T07:59:50.767Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:00:10.205Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:00:10.206Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:00:10.247Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:00:12.887Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:00:14.841Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:00:14.846Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:00:14.903Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:00:14.947Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:00:14.994Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:02:06.777Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:02:06.778Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:02:06.814Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:02:10.242Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:02:13.435Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:02:13.441Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:02:13.622Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:02:13.722Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:02:13.827Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:17:06.666Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:17:11.817Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:17:25.269Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:17:25.276Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:17:30.250Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:17:48.354Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:17:48.355Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:17:48.362Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:17:48.414Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:17:52.981Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:17:54.226Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:17:54.229Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:17:54.289Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:17:54.518Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:17:54.573Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:19:39.897Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:19:39.898Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:19:39.905Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:19:39.932Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:19:40.817Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:19:41.197Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:19:41.203Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:19:41.286Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:19:41.336Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:19:41.388Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:21:00.871Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:21:00.871Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:21:00.879Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:21:00.905Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:21:05.256Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:21:06.798Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:21:06.801Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:21:06.904Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:21:07.121Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:21:07.188Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:21:07.217Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:21:07.223Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:23:43.653Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:23:43.654Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:23:43.661Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:23:43.689Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:23:46.926Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:23:48.464Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:23:48.467Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:23:48.564Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:23:48.763Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:23:48.869Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:23:48.883Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:24:33.476Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:24:33.476Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:24:33.484Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:24:33.539Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:24:35.761Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:24:37.464Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:24:37.468Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:24:37.516Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:24:37.581Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:24:37.719Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:24:37.760Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:26:16.216Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:26:16.217Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:26:16.225Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:26:16.251Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:26:18.705Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:26:19.086Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:26:19.092Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:26:19.151Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:26:19.202Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:26:19.262Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:26:19.279Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:29:43.895Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:29:43.895Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:29:43.903Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:29:43.930Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:29:51.776Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:29:53.465Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:29:53.468Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:29:54.191Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:29:54.496Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:29:54.804Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:29:54.835Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:34:28.963Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:34:28.964Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:34:28.972Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:34:28.999Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:34:32.468Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:34:33.628Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:34:33.634Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:34:33.936Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:34:34.239Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:34:34.494Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:34:34.533Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:34:34.537Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:36:22.404Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:36:22.405Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:36:22.413Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:36:22.440Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:36:24.933Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:36:26.154Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:36:26.157Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:36:26.240Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:36:26.290Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:36:26.343Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:36:26.373Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:36:26.377Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:38:12.405Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:38:12.406Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:38:12.413Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:38:12.440Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:38:14.988Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:38:15.385Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:38:15.388Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:38:15.442Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:38:15.491Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:38:15.550Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:38:15.583Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:38:15.588Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:38:51.703Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:38:51.704Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:38:51.711Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:38:51.761Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:38:54.017Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:38:55.482Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:38:55.486Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:38:55.564Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:38:55.656Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:38:55.761Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:38:55.797Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:38:55.805Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:39:53.220Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:39:53.221Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:39:53.229Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:39:53.256Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:39:55.512Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:39:55.899Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:39:55.908Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:39:55.978Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:39:56.028Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:39:56.122Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:39:56.155Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:39:56.160Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:40:27.686Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:40:27.687Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:40:27.695Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:40:27.748Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:40:30.474Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:40:32.113Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:40:32.116Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:40:32.431Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:40:32.630Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:40:32.734Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:40:32.770Z"}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 {"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:44:45.411Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:44:45.412Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:44:45.419Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:44:45.464Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:44:49.032Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:44:49.984Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:44:49.991Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:44:50.085Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:44:50.146Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:44:50.221Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:44:50.229Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:45:13.920Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:45:13.921Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:45:13.928Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:45:13.980Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:45:17.048Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:45:18.983Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:45:18.986Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:45:19.212Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:45:19.307Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:45:19.617Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:45:19.623Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:45:47.400Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:45:47.401Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:45:47.409Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:45:47.439Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:45:48.798Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:45:49.171Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:45:49.177Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:45:49.239Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:45:49.291Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:45:49.344Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:45:49.348Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:45:49.351Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:46:42.190Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:46:42.191Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:46:42.199Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:46:42.250Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:46:43.206Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:46:43.648Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:46:43.654Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:46:43.734Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:46:43.782Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:46:43.841Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:46:43.848Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:46:43.853Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:47:41.000Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:47:41.001Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:47:41.009Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:47:41.036Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:47:46.263Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:47:47.710Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:47:47.716Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:47:47.791Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:47:47.842Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:47:47.899Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:47:47.902Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:47:47.909Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:48:15.305Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:18.895Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:19.879Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:20.798Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:21.791Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:22.630Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:23.343Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:23.991Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:24.608Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:25.416Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:26.328Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:27.257Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:27.960Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:28.785Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:29.633Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:30.593Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:31.322Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:32.106Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:32.778Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:33.467Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:34.331Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:35.363Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:36.203Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:37.067Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:38.460Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:39.260Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:40.324Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:41.012Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:41.724Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:42.437Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:43.021Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:43.830Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:44.469Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:45.309Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:46.309Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:46.966Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:47.878Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:48:48.798Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:49:08.219Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:49:08.220Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:49:08.227Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:49:08.254Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:49:13.293Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:49:14.837Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:49:14.844Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:49:15.439Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:49:15.491Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:49:15.741Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:49:15.748Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:49:15.754Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:49:32.299Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T08:49:37.862Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:50:02.117Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:50:02.118Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:50:02.125Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:50:02.181Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:50:05.805Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:50:06.329Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:50:06.334Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:50:06.406Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:50:06.470Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:50:06.538Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:50:06.542Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:50:06.545Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:50:34.761Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:50:34.762Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:50:34.769Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:50:34.794Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:50:37.490Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:50:39.129Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:50:39.134Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:50:39.227Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:50:39.335Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:50:39.650Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:50:39.656Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:50:59.803Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:50:59.804Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:50:59.813Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:50:59.867Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:51:02.094Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:51:03.006Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:51:03.010Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:51:03.062Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:51:03.110Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:51:03.162Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:51:03.167Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:51:03.170Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T08:54:14.621Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T08:54:14.622Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T08:54:14.630Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:54:14.656Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T08:54:19.818Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T08:54:21.359Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:54:21.364Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T08:54:21.664Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T08:54:21.960Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:54:22.073Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:54:22.081Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T08:54:22.085Z"}
+{"level":"info","message":"RESPONSE","timestamp":"2022-11-08T08:54:22.279Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T09:14:21.447Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T09:14:23.137Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T09:14:23.655Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T09:14:24.583Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T09:14:25.192Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:14:32.409Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T09:15:14.976Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T09:15:14.977Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T09:15:14.984Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T09:15:15.011Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T09:15:19.680Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T09:15:21.428Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T09:15:21.435Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T09:15:21.834Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T09:15:22.444Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:15:22.743Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:15:22.747Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:15:22.752Z"}
+{"level":"info","message":"RESPONSE","timestamp":"2022-11-08T09:15:22.837Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T09:17:30.994Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T09:17:30.995Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T09:17:31.003Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T09:17:31.030Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T09:17:34.800Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T09:17:37.521Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T09:17:37.525Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T09:17:37.831Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T09:17:38.131Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:17:38.437Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:17:38.439Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:17:38.442Z"}
+{"level":"info","message":"RESPONSE","timestamp":"2022-11-08T09:17:38.745Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T09:17:38.753Z"}
+{"level":"info","message":"Function Testing began","timestamp":"2022-11-08T09:19:45.749Z"}
+{"level":"info","message":"API Testing began","timestamp":"2022-11-08T09:19:45.750Z"}
+{"level":"info","message":"server ready ....","timestamp":"2022-11-08T09:19:45.758Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T09:19:45.785Z"}
+{"level":"info","message":"connection sucessful...","timestamp":"2022-11-08T09:19:49.566Z"}
+{"level":"info","message":"STORE USER IN DATABASE","timestamp":"2022-11-08T09:19:50.926Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T09:19:50.930Z"}
+{"level":"info","message":"GET METHOD","timestamp":"2022-11-08T09:19:50.986Z"}
+{"level":"info","message":"GET ALL USERS","timestamp":"2022-11-08T09:19:51.036Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:19:51.089Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:19:51.093Z"}
+{"level":"info","message":"UPDATE USER IN DATABASE","timestamp":"2022-11-08T09:19:51.101Z"}
+{"level":"info","message":"RESPONSE","timestamp":"2022-11-08T09:19:51.155Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T09:19:51.162Z"}
+{"level":"info","message":"DELETE USER FROM DATABASE","timestamp":"2022-11-08T09:19:51.166Z"}

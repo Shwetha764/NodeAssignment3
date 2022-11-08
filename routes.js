@@ -21,8 +21,6 @@ const userSchema=new mongoose.Schema({
 
 const myDB=new mongoose.model("User",userSchema);
 
-// console.log(myDB);
-
 
 // //get users
 module.exports.getUsers = (req, res) => {
@@ -37,7 +35,7 @@ module.exports.getUsers = (req, res) => {
 //ADD USERS
 module.exports.storeUser = async (req, res) => {
     logger.info('STORE USER IN DATABASE', JSON.stringify(req.body))
-    if (req.body.name == ""){
+    if (req.body.name == " "){
         res.status(400).send("Invalid user name");
     }   
     else{
@@ -50,13 +48,16 @@ module.exports.storeUser = async (req, res) => {
 }
 
 //filter user
-module.exports.getUser = (req, res) => {
+module.exports.getUser = async (req, res) => {
     logger.info('GET METHOD', JSON.stringify(req.params))
-    // console.log(req.params);
-    myDB.find(req.params).then(results => {
-        // console.log(results);
+    await myDB.find(req.params).then(results => {
         res.contentType('application/json');
-        res.send(JSON.stringify(results));
+        if(results.length === 0){
+            res.status(404).json("User not present");
+        }
+        else{
+            res.json(results);
+        }
     })
 }
 
@@ -67,18 +68,25 @@ module.exports.getUser = (req, res) => {
 module.exports.deleteUser = async (req, res) => {
     logger.info('DELETE USER FROM DATABASE', JSON.stringify(req.body))
     // console.log(3333333333,req.body);
-    await myDB.deleteOne(
-        {
-        _id: req.body._id
-        }).then(results=>{
-            // console.log(results);
-                let boo =true;
-                    if(results.deletedCount==0){
-                        boo:false
-                    }
-                res.send({"status":boo})
-        })
-        // .catch(error=>console.log(error))
+    if(req.body.name==" " || req.body._id==" "){
+        res.status(500).json("User not present");
+    }
+    else{
+        await myDB.deleteOne(
+            {
+            _id: req.body._id
+            }).then(results=>{
+                // console.log(results);
+                    let boo =true;
+                        if(results.deletedCount==0){
+                            boo:false
+                        }
+                    res.send({"status":boo})
+            })
+            // .catch(error=>{
+            //     res.status(500).send(error);
+            // })
+    }
 }
 
 //delete user by name
@@ -109,33 +117,44 @@ module.exports.deleteUserbyName = async (req, res) => {
 //update user
 
 module.exports.updateUser = async (req, res) => {
-    // console.log(req.body);
-    // const idd=req.body._id;
-    // console.log(idd);
     logger.info('UPDATE USER IN DATABASE', JSON.stringify(req.body));
-    await myDB.findOneAndUpdate(
-        {
-          _id: req.body._id
-        }, 
-        {
-        $set: {
-            name: req.body.name
-            }
-        }, 
-        { 
-            upsert: false 
-        }, function(err,doc){
-            // console.log(_id);
-            if (err) return res.send(500,{error:err});
-            else{
-                    logger.info('RESPONSE', JSON.stringify(results))
-                    res.contentType('application/json');
-                    // console.log("hiii");
-                    res.send({status:true});
-            }
+    if(req.body.name==" " && req.body._id==" "){
+        res.status(400).json("User not present");
+    
+    }
+    else if(req.body._id==" "){
+        res.status(500).json("User not present");
+    }
+    else{
 
-        }  
-        )
+        await myDB.findOneAndUpdate(
+            {
+              _id: req.body._id
+            }, 
+            {
+            $set: {
+                name: req.body.name
+                }
+            }, 
+            { 
+                upsert: false 
+            }
+            // , function(err,doc){
+            //     if (err) return res.send(500,{error:err});
+            //     else{
+            //             logger.info('RESPONSE', JSON.stringify(results))
+            //             res.contentType('application/json');
+            //             res.send({status:true});
+            //             // res.status(true).send("sucess");
+            //     }
+    
+            // }
+            ).then(results=>{
+                logger.info('RESPONSE', JSON.stringify(results))
+                res.contentType('application/json');
+                res.send({status:true});
+            })
+    }
 }
 
 
@@ -156,7 +175,6 @@ module.exports.updateUserbyName = async (req, res) => {
         { 
             upsert: false 
         }).then(results=>{
-            // console.log(results);
             res.send({"status":true})
         })
         .catch(error=>console.log(error))
